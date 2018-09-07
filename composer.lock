@@ -1,0 +1,53 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "822f12c10059853c77388d3ca72cd3a0",
+    "packages": [
+        {
+            "name": "sidspears/bracket-counter",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/TheSidSpears/bracket-counter.git",
+                "reference": "84047d40651ed5a44313d817291b15664cb1e9c3"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/TheSidSpears/bracket-counter/zipball/84047d40651ed5a44313d817291b15664cb1e9c3",
+                "reference": "84047d40651ed5a44313d817291b15664cb1e9c3",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "classmap": [
+                    "src"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Sid Spears",
+                    "email": "thesidspears@gmail.com"
+                }
+            ],
+            "description": "Bracket counter",
+            "time": "2018-09-07T11:58:10+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "sidspears/bracket-counter": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
